@@ -33,7 +33,7 @@ opentelemetry-semantic-conventions==0.28b1
 opentelemetry-util-http==0.28b1
 pathspec==0.10.1
 platformdirs==2.5.2
-protobuf==4.21.6
+protobuf==5.29.6
 psutil==5.9.2
 pyzmq==24.0.0
 requests==2.27.1
